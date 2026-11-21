@@ -1,0 +1,13 @@
+Submodule mirrored for openancore.
+
+parent: platform_external_coreboot
+path: 3rdparty/libhwbase
+gitmodules_url: https://review.coreboot.org/libhwbase.git
+fetched_from: https://review.coreboot.org/libhwbase.git
+commit: 584629b9f4771b7618951cec57df2ca3af9c6981
+branch: main
+fallback_from_github: false
+
+commit is the gitlink recorded on the parent's android-15.0.0_r36 branch.
+branch is the upstream HEAD branch at fetch time. The commit is pushed
+here as android-15.0.0_r36 whether or not it is that branch's tip.
